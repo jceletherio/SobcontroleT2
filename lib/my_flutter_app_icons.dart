@@ -25,4 +25,5 @@ class MyFlutterApp {
   static const IconData quiz = IconData(0xe801, fontFamily: _kFontFam, fontPackage: _kFontPkg);
   static const IconData history = IconData(0xe802, fontFamily: _kFontFam, fontPackage: _kFontPkg);
   static const IconData help = IconData(0xe803, fontFamily: _kFontFam, fontPackage: _kFontPkg);
+  static const IconData battery = IconData(0xe804, fontFamily: _kFontFam, fontPackage: _kFontPkg);
 }
